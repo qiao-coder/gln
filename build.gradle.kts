@@ -20,7 +20,8 @@ repositories {
 dependencies {
 
     implementation(kotlin("reflect"))
-    implementation("kotlin.graphics:gli:0.8.3.0-18")
+//    implementation("kotlin.graphics:gli:0.8.3.0-18")
+    implementation("com.github.qiao-coder:gli:0.8.3.0-19")
 //    implementation("kotlin.graphics:glm:0.9.9.1-5")
     implementation("com.github.qiao-coder:glm:0.9.9.1-6")
     implementation("kotlin.graphics:unsigned:3.3.31")
